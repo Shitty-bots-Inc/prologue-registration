@@ -126,7 +126,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     background: -moz-linear-gradient(to top, rgb(139, 0, 0), #070707);
     background: -o-linear-gradient(to top, rgb(139, 0, 0), #070707);
     background: linear-gradient(to top, rgb(139, 0, 0), #070707);
-    
+
+    background-image: url("poster.png");
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Roboto', sans-serif;
